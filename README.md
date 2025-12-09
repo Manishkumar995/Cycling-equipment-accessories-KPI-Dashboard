@@ -48,11 +48,12 @@ Power BI Dashboard
 
 - Applied Power Query transformations  for consistency.
 
-**Step 3: Data Modeling**-
+**Step 3: Data Modeling**
 
- Built a star schema with:
+Built a star schema with:
 - Fact Table → Sales Transactions (Revenue, Profit, Quantity, Date, Product ID, Customer ID).
 - Dimension Tables → Products, Customers, Geography, Calendar.
+
 Defined relationships:
 - One-to-many between dimensions and fact table.
 - Calendar table linked for time intelligence (YTD, MTD, YoY).
