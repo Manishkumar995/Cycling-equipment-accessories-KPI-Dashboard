@@ -116,3 +116,11 @@ Business Users can now:
 
 - Perform ad-hoc analysis by slicing & drilling into data.
 
+**4. Contributing**
+
+Contributions are welcome! If you have suggestions for improving the dashboard or analysis, please feel free to fork the repository and submit a pull request.
+
+**5. License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
