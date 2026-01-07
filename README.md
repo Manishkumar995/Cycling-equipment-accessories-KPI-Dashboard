@@ -46,7 +46,7 @@ Power BI Dashboard
 
 - Standardized product categories and region names.
 
-- Applied Power Query transformations  for consistency.
+- Applied Power Query transformations for consistency.
 
 **Step 3: Data Modeling**-
 
