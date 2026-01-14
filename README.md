@@ -48,11 +48,12 @@ Power BI Dashboard
 
 - Applied Power Query transformations for consistency.
 
-**Step 3: Data Modeling**-
+**Step 3: Data Modeling**
 
- Built a star schema with:
+Built a star schema with:
 - Fact Table → Sales Transactions (Revenue, Profit, Quantity, Date, Product ID, Customer ID).
 - Dimension Tables → Products, Customers, Geography, Calendar.
+
 Defined relationships:
 - One-to-many between dimensions and fact table.
 - Calendar table linked for time intelligence (YTD, MTD, YoY).
@@ -114,4 +115,12 @@ Business Users can now:
 - Compare sales trends month-over-month and year-over-year.
 
 - Perform ad-hoc analysis by slicing & drilling into data.
+
+**4. Contributing**
+
+Contributions are welcome! If you have suggestions for improving the dashboard or analysis, please feel free to fork the repository and submit a pull request.
+
+**5. License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
