@@ -1,4 +1,4 @@
-# Cycling-equipment-accessories-KPI-Dashboard=
+# Cycling-equipment-accessories-KPI-Dashboard
 **Power BI, Excel  Dashboard**
 
 **1. Project Summary**
