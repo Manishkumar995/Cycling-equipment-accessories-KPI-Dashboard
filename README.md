@@ -115,3 +115,6 @@ Business Users can now:
 
 - Perform ad-hoc analysis by slicing & drilling into data.
 
+**Author
+Manish Kumar**
+
